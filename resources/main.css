@@ -204,14 +204,31 @@ body {
 
 .form-input {
     width: 60vw;
-    height: 20px;
+    height: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.form-message {
+    width: 60vw;
+    height: 60px;
     padding: 20px;
 }
 
-
-
-
-
+/* @media (max-width: 35em) {
+    .form-input {
+        width: 950vw;
+        height: 8px;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .form-message {
+        width: 95vw;
+        height: 60px;
+        padding: 20px;
+    }
+} */
 
 
 
